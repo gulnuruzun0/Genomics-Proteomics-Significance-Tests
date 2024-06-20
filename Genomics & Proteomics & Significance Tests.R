@@ -1,6 +1,4 @@
-#Gülnur Uzun-235009063007
-#System Biology-BSB513 Homework2
-#Question 4
+#Basic R operations
 
 #We defined the B matrix
 B <- matrix(c(2,1,-4,5,3,2,0,4,0,-7,0,1,0,4,-8), nrow=3, byrow= TRUE)
